@@ -1,4 +1,4 @@
-PROJECT WRITE-UP
+# PROJECT WRITE-UP
 
 # The contract address:
 ```
@@ -28,5 +28,20 @@ PROJECT WRITE-UP
     - Node v16.17.0
     - Web3.js v1.7.4
 
+# UML Diagram
+
+## Activity
+![truffle test](images/Activity.png)
+
+## Sequence
+![truffle test](images/Sequence.png)
+
+## State
+![truffle test](images/State.png)
+
+## Class (Data Model)
+![truffle test](images/Class.png)
+
+# Result
 ![truffle test](images/Screenshot-2022-08-29-12-01-00.png)
 ![truffle test](images/Screenshot-2022-08-29-11-04-05.png)
